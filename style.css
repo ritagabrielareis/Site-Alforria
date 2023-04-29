@@ -19,4 +19,30 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}  
+.alforria-título {
+    padding: 24px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 160%;
+
 }
+
+.alforria-texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150%;
+}
+
+.alforria-categoriasdoproduto {
+ padding: 24px 0;
+ height: 180px;
+ width: 100% ;
+}
+
+img src="lançamentos.jpg" {
+    width: 36%;
+}
+   
